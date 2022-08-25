@@ -23,3 +23,7 @@ Dirigido a docentes y estudiantes de la Facultad de Ingeniería de las carreras 
 ### Útiles ###
 * [Notebooks en Drive](https://drive.google.com/drive/folders/1R3FDkLFqHnMU-O3IchiWRAC_z3l7iARS?usp=sharing)
 * [A Neural Network Playground](https://playground.tensorflow.org/)
+
+### TEMPORALES ###
+* [Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfv3-TWFwREDXQVYhimTxQ2qkCTxACfa79QwNdDYmD3mD2-sA/viewform)
+* [Asistencia](https://docs.google.com/forms/d/e/1FAIpQLSc3wTEyHUNHdEb3K9ms2vAoiZ9ggF82_guqE0fb056dUpDzSA/viewform)
