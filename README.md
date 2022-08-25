@@ -18,3 +18,8 @@ Dirigido a docentes y estudiantes de la Facultad de Ingeniería de las carreras 
 
 
 *Este repositorio contiene material utilizado para las experiencias prácticas y/o demostraciones.*
+
+
+### Útiles ###
+* [Notebooks en Drive](https://drive.google.com/drive/folders/1R3FDkLFqHnMU-O3IchiWRAC_z3l7iARS?usp=sharing)
+* [A Neural Network Playground](https://playground.tensorflow.org/)
